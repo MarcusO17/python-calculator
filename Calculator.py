@@ -13,3 +13,4 @@ if option is "/":
     total = number1 / number2  
     
 print("Your total is " + str(total))
+print("Does the update work?")
